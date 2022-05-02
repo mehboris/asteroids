@@ -1,7 +1,7 @@
 pipeline {
 agent any
     stages {
-        stage('build32') {
+        stage('build3232') {
             steps {
                 sh 'java -version'
             }
