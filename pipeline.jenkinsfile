@@ -1,7 +1,7 @@
 pipeline {
 agent any
     stages {
-        stage('build12') {
+        stage('build123') {
             steps {
                 sh 'java -version'
             }
